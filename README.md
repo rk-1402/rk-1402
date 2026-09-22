@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ravi Kumar Gupta 👋
 
-<!--
-**rk-1402/rk-1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps | Cloud | Platform Engineer
 
-Here are some ideas to get you started:
+I work on designing, automating, deploying, and operating cloud infrastructure across AWS and GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes cloud infrastructure, CI/CD automation, containerized workloads, identity and access management, Linux administration, networking, and production troubleshooting.
+
+Currently focused on:
+
+- ☁️ AWS & Google Cloud Platform
+- 🐳 Docker & Kubernetes
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD & GitHub Actions
+- 📊 Prometheus, Grafana & CloudWatch
+- 🐧 Linux & Automation
